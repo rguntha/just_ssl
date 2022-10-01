@@ -3,7 +3,7 @@
 //
 // To run:
 //
-// flutter run -t lib/example_caching.dart
+// flutter run -t lib/main.dart
 
 import 'package:audio_session/audio_session.dart';
 import 'package:flutter/material.dart';
